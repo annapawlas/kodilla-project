@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="&quot;X&quot; win tests" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-02-12T17:54:36" hostname="LAPTOP-LP5TH8UF" time="0.037">
+  <properties/>
+  <testcase name="testXWinsInSlopeFromRightToLeft()" classname="com.kodilla.tictactoe.TicTacToeTestSuite$XWinTests" time="0.003"/>
+  <testcase name="testXWinsInColumn0()" classname="com.kodilla.tictactoe.TicTacToeTestSuite$XWinTests" time="0.003"/>
+  <testcase name="testXWinsInColumn1()" classname="com.kodilla.tictactoe.TicTacToeTestSuite$XWinTests" time="0.003"/>
+  <testcase name="testXWinsInColumn2()" classname="com.kodilla.tictactoe.TicTacToeTestSuite$XWinTests" time="0.002"/>
+  <testcase name="testXWinsInRow0()" classname="com.kodilla.tictactoe.TicTacToeTestSuite$XWinTests" time="0.003"/>
+  <testcase name="testXWinsInRow1()" classname="com.kodilla.tictactoe.TicTacToeTestSuite$XWinTests" time="0.003"/>
+  <testcase name="testXWinsInRow2()" classname="com.kodilla.tictactoe.TicTacToeTestSuite$XWinTests" time="0.003"/>
+  <testcase name="testXWinsInSlopeFromLeftToRight()" classname="com.kodilla.tictactoe.TicTacToeTestSuite$XWinTests" time="0.002"/>
+  <system-out><![CDATA[Preparing to execute test #4
+Preparing to execute test #5
+Preparing to execute test #6
+Preparing to execute test #7
+Preparing to execute test #8
+Preparing to execute test #9
+Preparing to execute test #10
+Preparing to execute test #11
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
